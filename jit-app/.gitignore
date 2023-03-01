@@ -1,0 +1,9 @@
+jit-code
+**/*.zip
+**/*.tfvars
+**/*.lock
+**/*.lock.hcl
+**/*.tfstate
+**/*.tfstate.backup
+**/*.terraform
+**/.terraform.lock.hcl
